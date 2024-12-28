@@ -106,6 +106,7 @@ Creating a cline_todo.md file allows you to track tasks effectively. Once a task
 
 Example usage in .clinerules
 
+```
 - Create a `cline_todo.md` file to track tasks. When a task is received, the agent should document the following in the file:
   - Task description: A clear summary of the task to be performed.
   - Timestamp: The exact date and time when the task came in.
@@ -126,7 +127,7 @@ Example usage in .clinerules
   - Notes: [Any additional comments or blockers]
 
 - The agent must maintain the file in an organized manner, updating it in real-time and ensuring all changes are reflected immediately.
-
+```
 
 ### Change Tracking
 
