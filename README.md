@@ -6,6 +6,11 @@ Cline is a popular tool among developers and non-developers alike, designed to s
 
 # Tips & Tricks
 
+## Models
+- Anthropic: Claude 3.5 Sonnet [Link](https://openrouter.ai/anthropic/claude-3.5-sonnet)
+- DeepSeek V3 [Link](https://openrouter.ai/deepseek/deepseek-chat)
+- Qwen2.5 Coder 32B Instruct [Link](https://openrouter.ai/qwen/qwen-2.5-coder-32b-instruct)
+
 1. Use .clinerules
 
 Creating a .clinerules file can improve the accuracy of the responses you receive and help reduce costs. This file acts as a guide for Cline, defining rules and configurations for your project.
@@ -97,6 +102,7 @@ Your involvement can expedite the resolution process.
 
 Cline is not infallible. Regularly review its outputs to ensure accuracy and reliability, particularly in critical parts of your project.
 
+
 ## Note Taking
 
 ### TODO List Management
@@ -158,7 +164,8 @@ Example usage in .clinerules
 - [cline-memory-bank.md](https://github.com/nickbaumann98/cline_docs/blob/main/prompting/custom%20instructions%20library/cline-memory-bank.md) - nickbaumann98/cline_docs  
 - [ClaudeAI subreddit](https://www.reddit.com/r/ClaudeAI/)  
 - [ChatGPT Coding subreddit](https://www.reddit.com/r/ChatGPTCoding/)
-
+- [Open Router](https://openrouter.ai/)
+- [Roo Cline (Cline Fork)](https://github.com/RooVetGit/Roo-Cline)
 
 # Final Thoughts
 
